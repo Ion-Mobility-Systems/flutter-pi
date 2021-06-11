@@ -38,7 +38,7 @@ If you encounter issues running flutter-pi on any of the supported platforms lis
 - If you want to update flutter-pi, you check out the latest commit using `git pull && git checkout origin/master` and continue with [compiling](#compiling), step 2.
 
 ### Dependencies
-1. Install the flutter engine binaries using the instructions in the [in the _flutter-engine-binaries-for-arm_ repo.](https://github.com/ardera/flutter-engine-binaries-for-arm).
+1. Install the flutter engine binaries using the instructions in the [in the _flutter-engine-binaries-for-arm_ repo.](https://github.com/Ion-Mobility-Systems/flutter-engine-binaries-for-arm).
     <details>
       <summary>More Info</summary>
 
